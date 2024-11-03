@@ -149,23 +149,19 @@ I have made a separate page for machine learning, you can check it out [here](ht
 | Computer Vision             | [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)                                                                                                                                                                                                                              |
 | Machine Learning Operations | [MadewithML](https://madewithml.com/courses/mlops/)                                                                                                                                                                                                                                                                               |
 
-### Data Science Projects 📈
-
-Before starting with any project, I would suggest you to go through [this video](https://youtu.be/c810QTD4XB8), which will help you to understand the process of building a data science project which can help you to land a job.
+### Data Science Projects [Video](https://youtu.be/c810QTD4XB8) 📈
 
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
 
-Taking part in competitions is also a great way to learn and build your portfolio, you can check out the following platforms for competitions:-
+# Competitions:-
 
 - DrivenData
 - Kaggle
 - Analytics Vidhya
 - Zindi
 
-### Guide to Data Science Interviews
-
-We will be publishing Interviews guide for every topic, but till then you can go through the following resources:-
+### Data Science Interviews
 
 - [ Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
 - [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
