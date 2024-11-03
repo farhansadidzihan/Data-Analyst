@@ -211,9 +211,7 @@ Note: People usually have question around learning Big data tools in initial pha
 
 ### Machine Learning 🤖
 
-![Machine Learning Roadmap](assets/machinelearningroadmap.png "Machine Learning Roadmap")
-
-I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE), which got more than 150k views.
+I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE)
 
 ### Advance Data Science 🚀
 
