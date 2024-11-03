@@ -121,7 +121,7 @@ Impact Batch:- Data-Science-Masters (Full Stack Data Science)
 
 | Lecture Topics                      | Resources & Links                                                                                                                                                                                          |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Core Python                         | [Durga Sir Python](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu), or [Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)      |
+| Core Python                         | [Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)      |
 | Intermediate Python                 | [Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)                                                                                                       |
 | Advance Python                      | [Durga Sir Advance Python](https://www.youtube.com/watch?v=es457q7n3P8&list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)                                                                                            |
 | Core Software Engineering Principle | [Robust Python](https://www.amazon.in/Robust-Python-Write-Clean-Maintainable/dp/1098100662) & [Design Patterns](https://google.github.io/styleguide/pyguide.html)                                          |
