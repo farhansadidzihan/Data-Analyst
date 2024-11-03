@@ -23,19 +23,10 @@ Many of the materials in this roadmap were inspired by [Daniel Formoso](https://
 
 ## 1. Python Programming Language -1 Month
 
-Python In English:https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
-
-Python In Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
-
-Flask Playlist: https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc
-
-### Final Goal Outcome:
-1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
-2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
-3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
-
-### What's New In Python 3.10
-https://docs.python.org/3/whatsnew/3.10.html
+2. Numpy
+3. Pandas
+4. Matplotlib
+5. Seaborn
 
 ## 2. Statistics
 ![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
