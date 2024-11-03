@@ -53,14 +53,11 @@ Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8
 
 ## 3. Databases
 1. Mongodb: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
-![download (3)](https://user-images.githubusercontent.com/20041231/211718010-30412d4c-9cea-4ae7-858e-a761d0240812.png)
 
 2. Mysql:https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 
-![download (4)](https://user-images.githubusercontent.com/20041231/211718051-2af3c5ba-cb6d-451b-85ea-5bb01abd9869.png)
-
 ## 4. Machine Learning
-Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
+Complete Around 20-25 Algorithms Both supervised And Unsupervised ML
 Live ML Playlist: https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
 
 Complete ML Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
@@ -113,10 +110,6 @@ Impact Batch:- Data-Science-Masters (Full Stack Data Science)
 | Linear Algebra Questions                     | [Linear Algebra Interview questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)                                                                                                                                                                                                                                                                                                                                                                                 |
 | Statistics & Probability Interview Questions | [Link 1](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271), [Link 2](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street), [Link 3](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md), [Link 4](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |
 
-**Learning Tip 1 💁**: If you're are a beginnner and not able to answer interview questions, it's totally ok, you can look upto the solutions and solve similar types of problems on your own to practice those types of questions. You don't need to learn every concept, if you're not able to understand it, just skip it and move on to the next topic and review next day or try to get help from communities such as discord communities.
-
-**Interview Tip 1 💁**: While answering questions, try to explain in such a way that you're building your solution from base, if you know the answer, start with explaining how you reached to that answer, don't tell your answer, explain your thought process. Interviews wants to check your problem solving skills. Even if you give wrong answer but your thought process is correct, interviewer might be impressed.
-
 ### Programming Languages & Data Structures and Algorithms 🖥️
 
 | Lecture Topics                      | Resources & Links                                                                                                                                                                                          |
@@ -126,10 +119,6 @@ Impact Batch:- Data-Science-Masters (Full Stack Data Science)
 | Advance Python                      | [Durga Sir Advance Python](https://www.youtube.com/watch?v=es457q7n3P8&list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)                                                                                            |
 | Core Software Engineering Principle | [Robust Python](https://www.amazon.in/Robust-Python-Write-Clean-Maintainable/dp/1098100662) & [Design Patterns](https://google.github.io/styleguide/pyguide.html)                                          |
 | Data Structures and Algorithms      | [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf), [Introduction to Algorithms, MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-
-**Learning Tip 2 💁**: If you're a beginner and learning python, it will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it.
-
-**Learning Tip 3 💁**: Data structures and algorithms is becoming one of the important topics in data science interview as well in giant companies, so it's important to learn it. Not only from the perspective of interviews, learning it and solving problems using dsa makes your problem solving skill and criticial thinking much more better than before and you will be having several tools in your toolbox to solve any problem. So I suggest to learn a particular topic and solve several questions on it, we will soon be adding several problems on this page to practice for data science.
 
 ## Core Data Science Fundamentals 🚀
 
@@ -149,9 +138,6 @@ According to [Harvard business School](https://online.hbs.edu/blog/post/data-sci
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Data Analysis      | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662), [Head First Data Analysis: A Learner's Guide to Big Numbers, Statistics, and Good Decisions](https://learning.oreilly.com/library/view/head-first-data/9780596806224/) |
 | Data Visualization | [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)                                                                                                                                                    |
-
-**Learning Tip 4 💁**: Learning frameworks is not a big deal, but the way you use frameworks to analyze data, visualize data and solve problems is what matters. So, I suggest to understand the CRUX of data analysis and data visualization and use the frameworks to build your solution. If you don't know the actual CRUX of data visualization, analysis, then there is no point in learning frameworks. and If you don't know how to work with data, then there is no point in learning ML.
-
 ### SQL 📊
 
 | Topics         | Resources & Links                                                                                                                                                                                           |
@@ -180,8 +166,6 @@ I have made a separate page for machine learning, you can check it out [here](ht
 ### Data Science Projects 📈
 
 Before starting with any project, I would suggest you to go through [this video](https://youtu.be/c810QTD4XB8), which will help you to understand the process of building a data science project which can help you to land a job.
-
-We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
 
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
