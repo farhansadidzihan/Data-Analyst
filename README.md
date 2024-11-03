@@ -1,4 +1,4 @@
-# 2020 Machine Learning Roadmap (still 90% valid for 2023) 
+# Machine Learning Roadmap 
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
@@ -16,7 +16,6 @@ See the [full interactive version](https://dbourke.link/mlmap).
 
 Many of the materials in this roadmap were inspired by [Daniel Formoso](https://github.com/dformoso)'s [machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap),so if you enjoyed this one, go and check out his. He also has a mindmap specifically for [deep learning](https://github.com/dformoso/deeplearning-mindmap) too.
 
-# 6 Months Data Science Roadmap in 2023
 ## Work Of Data Scientist?
 ![Capture](https://user-images.githubusercontent.com/20041231/211718743-d6604ff7-8828-422b-9b60-ec156cdaf054.JPG)
 
