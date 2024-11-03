@@ -2,7 +2,7 @@
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
-[full interactive version](https://dbourke.link/mlmap).
+[Full interactive version](https://dbourke.link/mlmap).
 
 Many of the materials in this roadmap were inspired by [Daniel Formoso](https://github.com/dformoso)'s [machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap),so if you enjoyed this one, go and check out his. He also has a mindmap specifically for [deep learning](https://github.com/dformoso/deeplearning-mindmap) too.
 
@@ -65,7 +65,7 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 2. Circle CI
 3. Kubeflow
 4. MLflow
-5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes
+5. Deployment: AWS, Dockers And Kubernetes
 6. Evidently AI
 7. Grafana(Monitoring)
 8. AirFlow
