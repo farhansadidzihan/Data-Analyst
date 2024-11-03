@@ -29,7 +29,6 @@ Many of the materials in this roadmap were inspired by [Daniel Formoso](https://
 4. Seaborn
 
 ## 2. Statistics
-![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
 
 English: 7 Days Statistics Live Session :https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 
@@ -87,11 +86,6 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 6. Evidently AI
 7. Grafana(Monitoring)
 8. AirFlow
-
-## Internships:
-![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
-
-iNeuron Internships: https://internship.ineuron.ai/
 
 ## Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
