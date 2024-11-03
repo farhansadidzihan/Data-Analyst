@@ -21,12 +21,12 @@ Many of the materials in this roadmap were inspired by [Daniel Formoso](https://
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
-## 1. Python Programming Language -1 Month
+## 1. Python Programming Language
 
-2. Numpy
-3. Pandas
-4. Matplotlib
-5. Seaborn
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
 
 ## 2. Statistics
 ![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
