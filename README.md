@@ -47,10 +47,6 @@ Complete Detailed Feature Engineering: https://www.youtube.com/watch?v=6WDFfaYtN
 
 Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
-### Final Goal Outcome: 
-1. Techniques to Perform Statistical Analysis
-2. Familiar with all concepts which will be important for Machine Learning
-
 ## 3. Databases
 1. Mongodb: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 
