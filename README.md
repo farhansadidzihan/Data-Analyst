@@ -48,10 +48,12 @@ ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlz
 [ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
 MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 
-## Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
-[CS230 Deep Learning](https://cs230.stanford.edu/)
+### Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
+[CS230 Deep Learning](https://cs230.stanford.edu/) 
 
-## NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+### NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
 ## MLOps: End To End ML Projects
 1. Github Action CI/CD pipelines
