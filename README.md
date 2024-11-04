@@ -7,6 +7,14 @@
 [Deep learning](https://github.com/dformoso/deeplearning-mindmap)
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
+![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
+
+# Libraries 
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Tensorflow
 
 # Mathematics
 1. Linear Algebra
