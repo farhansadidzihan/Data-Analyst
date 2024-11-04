@@ -93,7 +93,6 @@ Statistics & Probability Interview Questions[Link 1](https://towardsdatascience.
 ### Data Science Interviews
 
 - [ Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
-- [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/pdf/2201.00650.pdf)
 - [Eugene Yan's Guides](https://eugeneyan.com/)
 - [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
