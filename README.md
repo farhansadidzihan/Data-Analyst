@@ -2,8 +2,9 @@
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
-[Full interactive version](https://dbourke.link/mlmap).
-[machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap) [deep learning](https://github.com/dformoso/deeplearning-mindmap)
+[Whimsical](https://dbourke.link/mlmap)
+[Machine Learning](https://github.com/dformoso/machine-learning-mindmap) 
+[Deep learning](https://github.com/dformoso/deeplearning-mindmap)
 
 ## Work Of Data Scientist?
 ![Capture](https://user-images.githubusercontent.com/20041231/211718743-d6604ff7-8828-422b-9b60-ec156cdaf054.JPG)
@@ -19,7 +20,7 @@
 
 ## 2. Statistics
 
-English: 7 Days Statistics Live Session :https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+English: 7 Days Statistics Live Session:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 
 Statistics in ML(43 videos): https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
 
@@ -37,12 +38,11 @@ Complete Detailed Feature Engineering: https://www.youtube.com/watch?v=6WDFfaYtN
 Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
 ## 3. Databases
-1. Mongodb: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
+1. MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 
-2. Mysql:https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
+2. Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 
-## 4. Machine Learning
-Complete Around 20-25 Algorithms Both supervised And Unsupervised ML
+## 4. Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
 Live ML Playlist: https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
 
 Complete ML Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
@@ -57,9 +57,9 @@ Complete Deep Learning Playlist: https://www.youtube.com/watch?v=YFNKnUhm_-s&lis
 ## NLP Playlist:
 English: Live NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
-Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+Complete NLP Playlist: https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 
-## AIOPS: End To End ML Projects
+## MLOps: End To End ML Projects
 1. Github Action CI/CD pipelines
 2. Circle CI
 3. Kubeflow
@@ -71,15 +71,8 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 
 ## Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
-
-
-## Best Affordable Data Science Course From Pwskills(6-7 Months)
-
-Impact Batch:- Data-Science-Masters (Full Stack Data Science)
 1. Data Science Masters Hindi: https://bit.ly/3CKX1od (Hindi)
 2. Data Science Masters English: https://bit.ly/3iEjWuH (English)
-
-## Let's get ready to learn data science 🚀
 
 | Topic                        | Resources & Links                                                                                                                                                                                                                                                           |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
