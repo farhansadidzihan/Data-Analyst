@@ -78,7 +78,6 @@ OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 - [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
 - [Linear Algebra Interview questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)
-[Link 1](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)
-[Link 2](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
-[Link 3](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md)
-[Link 4](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |
+- https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street
+- https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md
+
