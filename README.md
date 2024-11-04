@@ -13,14 +13,7 @@
 2. Calculus
 3. Statistics & Probability      
 
-## 1. Python Programming Language
-
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Seaborn
-
-## 2. Statistics
+## Statistics
 Statistics Session:https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
 
@@ -28,26 +21,26 @@ Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YH
 
 ### Feature Engineering https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
-## 3. Databases
+## Databases
 MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 SQL: https://datalemur.com/ 
 
-## 4. Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
+## Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
 ML OneShot: https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s
 ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
 [ML](https://youtu.be/Av0oMG49FQE)
 [ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
 MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 
-## 5. Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+## Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
 OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 [CS230 Deep Learning](https://cs230.stanford.edu/) 
 
 
-## 6. NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+## NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
-## 7. MLOps: End To End ML Projects
+## MLOps: End To End ML Projects
 1. Github Action CI/CD pipelines
 2. Circle CI
 3. Kubeflow
