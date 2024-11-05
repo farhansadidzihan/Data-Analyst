@@ -7,7 +7,13 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
-### Python Libraries 
+### 1. Mathematics
+
+- Linear Algebra
+- Calculus
+- Statistics & Probability
+      
+### 2. Python Libraries 
 
 - Numpy
 - Pandas
@@ -15,43 +21,37 @@
 - Seaborn
 - Tensorflow
 
-### Mathematics
-
-- Linear Algebra
-- Calculus
-- Statistics & Probability      
-
-### Statistics
+### 3. Statistics
 
 - Statistics Session: https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 - Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
 - EDA https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 - Feature Engineering https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
-### Databases
+### 4. Databases
 
 - MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 - Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
 - SQL: https://datalemur.com/ 
 
-### Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
+### 5. Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
 
 - ML OneShot: https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s
 - ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
 - [ML](https://youtu.be/Av0oMG49FQE)
 - [ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
 
-### Deep Learning 
+### 6. Deep Learning 
 
 - Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
 - OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 - [CS230 Deep Learning](https://cs230.stanford.edu/) 
 
-### NLP 
+### 7. NLP 
 
 - Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
-### MLOps: End To End ML Projects
+### 8. MLOps: ML Projects
 
 MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 Deployment: AWS, Dockers, Kubernetes
@@ -63,7 +63,7 @@ Deployment: AWS, Dockers, Kubernetes
 -  [Grafana(Monitoring)](https://grafana.com/)
 - [AirFlow](https://airflow.apache.org)                                                                                                                                              
 
-### Data Science Project & Competitions 📈
+### 9. Data Science Project & Competitions 📈
 
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
@@ -71,7 +71,7 @@ Deployment: AWS, Dockers, Kubernetes
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Zindi](https://zindi.africa/)
 
-### Data Science Interviews
+### 10. Data Science Interviews
 
 - [Eugene Yan's Guides](https://eugeneyan.com/)
 - [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
