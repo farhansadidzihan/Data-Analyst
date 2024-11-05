@@ -27,7 +27,7 @@
 
 - MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
 - Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
-- SQL: https://datalemur.com/ 
+- SQL: https://datalemur.com/, https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL
 
 ### 5. Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
 
