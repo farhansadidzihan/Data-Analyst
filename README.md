@@ -1,11 +1,7 @@
 # Data Analytics
-![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
+![Machine Learning Roadmap](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
-[Whimsical](https://dbourke.link/mlmap)
-[Machine Learning](https://github.com/dformoso/machine-learning-mindmap) 
-[Deep learning](https://github.com/dformoso/deeplearning-mindmap)
-
-![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
+[Whimsical](https://dbourke.link/mlmap)[Machine Learning](https://github.com/dformoso/machine-learning-mindmap)[Deep learning](https://github.com/dformoso/deeplearning-mindmap)
 
 ### 1. Mathematics
 
