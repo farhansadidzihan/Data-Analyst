@@ -46,11 +46,12 @@ OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 Deployment: AWS, Dockers, Kubernetes
 
-1. Kubeflow
-2. MLflow
-4. Evidently AI
-5. Grafana(Monitoring)
-6. AirFlow                                                                                                                                              
+1. [Circle CI](https://circleci.com/)
+2. [Kubeflow](https://www.kubeflow.org/)
+3. [MLflow](https://mlflow.org/)
+4. [Evidently AI](https://evidentlyai.com/)
+5. [Grafana(Monitoring)](https://grafana.com/)
+6. [AirFlow](https://airflow.apache.org)                                                                                                                                              
 
 ### Data Science Project & Competitions 📈
 
