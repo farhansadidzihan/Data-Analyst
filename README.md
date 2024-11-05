@@ -38,7 +38,6 @@ ML OneShot: https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s
 ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
 [ML](https://youtu.be/Av0oMG49FQE)
 [ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
-MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 
 ## Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
 OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
@@ -48,14 +47,14 @@ OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 ## NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
 ## MLOps: End To End ML Projects
-1. Github Action CI/CD pipelines
-2. Circle CI
-3. Kubeflow
-4. MLflow
-5. Deployment: AWS, Dockers And Kubernetes
-6. Evidently AI
-7. Grafana(Monitoring)
-8. AirFlow                                                                                                                                              
+MLOps [MadewithML](https://madewithml.com/courses/mlops/)
+Deployment: AWS, Dockers, Kubernetes
+
+1. Kubeflow
+2. MLflow
+4. Evidently AI
+5. Grafana(Monitoring)
+6. AirFlow                                                                                                                                              
 
 ### Data Science Project 📈
 
@@ -71,13 +70,11 @@ OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
 
 ### Data Science Interviews
 
-- [ Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
-- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/pdf/2201.00650.pdf)
 - [Eugene Yan's Guides](https://eugeneyan.com/)
 - [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
-- [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
 - [Linear Algebra Interview questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)
 - https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street
-- https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md
+- https://github.com/kojino/120-Data-Science-Interview-Questions
+- [ML Interview questions](https://github.com/khangich/machine-learning-interview)
 
