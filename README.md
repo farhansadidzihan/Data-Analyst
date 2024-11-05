@@ -8,50 +8,60 @@
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
 ### Python Libraries 
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Seaborn
-5. Tensorflow
+
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Tensorflow
 
 ### Mathematics
-1. Linear Algebra
-2. Calculus
-3. Statistics & Probability      
+
+- Linear Algebra
+- Calculus
+- Statistics & Probability      
 
 ### Statistics
-Statistics Session: https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
-Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
-EDA https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
-Feature Engineering https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
+
+- Statistics Session: https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
+- Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
+- EDA https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
+- Feature Engineering https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
 ### Databases
-MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
-Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
-SQL: https://datalemur.com/ 
+
+- MongoDB: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
+- Mysql: https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
+- SQL: https://datalemur.com/ 
 
 ### Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
-ML OneShot: https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s
-ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
-[ML](https://youtu.be/Av0oMG49FQE)
-[ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
 
-### Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
-OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
-[CS230 Deep Learning](https://cs230.stanford.edu/) 
+- ML OneShot: https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s
+- ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
+- [ML](https://youtu.be/Av0oMG49FQE)
+- [ML Roadmap](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded)
 
-### NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+### Deep Learning 
+
+- Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+- OneShot: https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR
+- [CS230 Deep Learning](https://cs230.stanford.edu/) 
+
+### NLP 
+
+- Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
 ### MLOps: End To End ML Projects
+
 MLOps [MadewithML](https://madewithml.com/courses/mlops/)
 Deployment: AWS, Dockers, Kubernetes
 
-1. [Circle CI](https://circleci.com/)
-2. [Kubeflow](https://www.kubeflow.org/)
-3. [MLflow](https://mlflow.org/)
-4. [Evidently AI](https://evidentlyai.com/)
-5. [Grafana(Monitoring)](https://grafana.com/)
-6. [AirFlow](https://airflow.apache.org)                                                                                                                                              
+- [Circle CI](https://circleci.com/)
+- [Kubeflow](https://www.kubeflow.org/)
+- [MLflow](https://mlflow.org/)
+- [Evidently AI](https://evidentlyai.com/)
+-  [Grafana(Monitoring)](https://grafana.com/)
+- [AirFlow](https://airflow.apache.org)                                                                                                                                              
 
 ### Data Science Project & Competitions 📈
 
