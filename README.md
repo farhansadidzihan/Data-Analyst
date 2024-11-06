@@ -45,19 +45,16 @@
 
 - Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
 
-### 8. MLOps: ML Projects
-
-MLOps [MadewithML](https://madewithml.com/courses/mlops/)
-Deployment: AWS, Dockers, Kubernetes
+### 8. [MadewithML](https://madewithml.com/courses/mlops/), Data Science Projects & Competitions 📈
 
 - [Circle CI](https://circleci.com/)
 - [Kubeflow](https://www.kubeflow.org/)
 - [MLflow](https://mlflow.org/)
 - [Evidently AI](https://evidentlyai.com/)
--  [Grafana(Monitoring)](https://grafana.com/)
+- [Grafana(Monitoring)](https://grafana.com/)
 - [AirFlow](https://airflow.apache.org)                                                                                                                                              
+Deployment: AWS, Dockers, Kubernetes
 
-### 9. Data Science Project & Competitions 📈
 
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
