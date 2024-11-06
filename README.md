@@ -1,5 +1,4 @@
 ![](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
-[ML Roadmap](https://dbourke.link/mlmap)
 
 ### 1. Mathematics
 
@@ -26,7 +25,7 @@
 - [SQL](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 - AWS
 
-### 4. Machine Learning (20-25 Algorithms - Supervised And Unsupervised)
+### 4. [Machine Learning](https://dbourke.link/mlmap) (20-25 Algorithms)
 
 - [ML OneShot](https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s)
 - [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
