@@ -1,6 +1,6 @@
 ![Machine Learning Roadmap](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
-[Whimsical](https://dbourke.link/mlmap)   [Machine Learning](https://github.com/dformoso/machine-learning-mindmap)   [Deep learning](https://github.com/dformoso/deeplearning-mindmap)
+[Whimsical](https://dbourke.link/mlmap)
 
 ### 1. Mathematics
 
