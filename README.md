@@ -1,4 +1,5 @@
-![https://dbourke.link/mlmap](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
+![](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
+[ML Roadmap](https://dbourke.link/mlmap)
 
 ### 1. Mathematics
 
