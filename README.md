@@ -18,11 +18,10 @@
 - Seaborn
 - Tensorflow
   
-### 3. Databases
+### 3. - [Database](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 
 - [MongoDB](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 - [Mysql](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
-- [SQL](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 - AWS
 
 ### 4. [Machine Learning](https://dbourke.link/mlmap) (20-25 Algorithms)
@@ -31,10 +30,9 @@
 - [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 - [ML](https://youtu.be/Av0oMG49FQE)
 
-### 5. Deep Learning 
+### 5. [Deep Learning](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR) 
 
 - [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-- [OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR)
 - [CS230 Deep Learning](https://cs230.stanford.edu/)
 - [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
@@ -48,7 +46,7 @@
 - [AirFlow](https://airflow.apache.org)                                                                                                                                          
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
-- Deployment: Dockers, Kubernetes
+- Dockers, Kubernetes
 - [DrivenData](https://www.drivendata.org/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Zindi](https://zindi.africa/)
