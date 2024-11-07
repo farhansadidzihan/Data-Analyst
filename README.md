@@ -1,4 +1,4 @@
-## 5 Steps of Data Analysis with Python 
+## 5 Steps of Data Analyst with Python 
 
 ### 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 
