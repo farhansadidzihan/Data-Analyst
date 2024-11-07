@@ -1,4 +1,12 @@
-![](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
+## 5 Steps of Data Analysis
+
+| Steps                             | Tools                                                                                     |
+|----------------------------------|-------------------------------------------------------------------------------------------------------|
+| **1. Collect**           | **SQL**, **BigQuery**, **Python (Requests, BeautifulSoup)** Web Scraping, **APIs**, **Excel**, **Google Sheets** |
+| **2. Clean**             | **Pandas**, **OpenRefine**, **Excel**, **Databricks** |
+| **3. EDA & Feature Engineering** | **Pandas Profiling**, **Sweetviz**, **Seaborn**, **Matplotlib**, **Scipy**, **FeatureTools** |
+| **4. Modeling**                  | **Sk Learn**, **TensorFlow**, **Keras**, **XGBoost**, **Statsmodels**, **H2O.ai** |
+| **5. Visualization**        | **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**, **Google Data Studio**, **Excel** |
 
 ### 1. Mathematics
 
@@ -56,13 +64,3 @@
 - [DS Questions](https://datalemur.com)
 
 Remote Jobs: https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
-
-## 5 Steps of Data Analysis
-
-| Steps                             | Tools                                                                                     |
-|----------------------------------|-------------------------------------------------------------------------------------------------------|
-| **1. Collect**           | **SQL**, **BigQuery**, **Python (Requests, BeautifulSoup)** Web Scraping, **APIs**, **Excel**, **Google Sheets** |
-| **2. Clean**             | **Pandas**, **OpenRefine**, **Excel**, **Databricks** |
-| **3. EDA & Feature Engineering** | **Pandas Profiling**, **Sweetviz**, **Seaborn**, **Matplotlib**, **Scipy**, **FeatureTools** |
-| **4. Modeling**                  | **Sk Learn**, **TensorFlow**, **Keras**, **XGBoost**, **Statsmodels**, **H2O.ai** |
-| **5. Visualization**        | **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**, **Google Data Studio**, **Excel** |
