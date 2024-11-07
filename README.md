@@ -1,4 +1,5 @@
 ## 5 Steps of Data Analyst with Python 
+Collect -> Clean -> EDA -> Modelling -> Visalization
 
 ### 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 
