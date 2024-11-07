@@ -57,24 +57,6 @@
 
 Remote Jobs: https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
-# Data Analysis Process Guide
-
-This repository outlines a streamlined data analysis process in five essential steps. Each step includes recommended tools to help you complete the process efficiently and effectively. Whether you're working on exploratory analysis, model building, or communicating insights, this guide has you covered.
-
-## Table of Contents
-- [Overview](#overview)
-- [Data Analysis Process](#data-analysis-process)
-  - [1. Define Objectives](#1-define-objectives)
-  - [2. Data Collection and Cleaning](#2-data-collection-and-cleaning)
-  - [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
-  - [4. Modeling and Analysis](#4-modeling-and-analysis)
-  - [5. Summarize Findings and Communicate Results](#5-summarize-findings-and-communicate-results)
-- [Recommended Tools](#recommended-tools)
-- [License](#license)
-
-## Overview
-The data analysis process helps in translating raw data into actionable insights. This guide provides a structured approach, focusing on five core steps essential for delivering impactful analysis.
-
 ## Data Analysis Process
 
 ### 1. Define Objectives
@@ -121,11 +103,4 @@ The data analysis process helps in translating raw data into actionable insights
 | **EDA**                    | Pandas Profiling, Sweetviz, Matplotlib, Seaborn, ggplot2                                   |
 | **Modeling and Analysis**  | Scikit-Learn, TensorFlow, Statsmodels, caret, randomForest                                |
 | **Summarize and Communicate** | Tableau, Power BI, Google Data Studio, Google Slides, PowerPoint                   |
-
-## License
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-Happy analyzing! 🚀
 
