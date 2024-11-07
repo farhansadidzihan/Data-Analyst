@@ -57,50 +57,12 @@
 
 Remote Jobs: https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
-## Data Analysis Process
+## 5 Steps of Data Analysis
 
-### 1. Define Objectives
-   - **Goal:** Clearly identify the problem or question to focus the analysis.
-   - **Actions:**
-     - Define the problem statement and objectives.
-     - Align with business or project goals.
-   - **Tools:** Notion, Miro, Trello, Google Docs, Microsoft Word
-
-### 2. Data Collection and Cleaning
-   - **Goal:** Gather the necessary data and prepare it for analysis by cleaning and preprocessing.
-   - **Actions:**
-     - Collect data from relevant sources.
-     - Handle missing values, correct data types, and remove duplicates.
-   - **Tools:** SQL, BigQuery, Pandas (Python), Excel, OpenRefine
-
-### 3. Exploratory Data Analysis (EDA)
-   - **Goal:** Investigate the data through summary statistics and visualizations to discover patterns and trends.
-   - **Actions:**
-     - Calculate summary statistics.
-     - Create visualizations (scatter plots, histograms) to understand relationships.
-   - **Tools:** Pandas Profiling, Sweetviz, Matplotlib, Seaborn, ggplot2
-
-### 4. Modeling and Analysis
-   - **Goal:** Apply statistical models or machine learning algorithms to answer questions or make predictions.
-   - **Actions:**
-     - Choose and train a model (e.g., regression, classification).
-     - Validate and tune the model if necessary.
-   - **Tools:** Scikit-Learn, TensorFlow, Statsmodels, caret, randomForest
-
-### 5. Summarize Findings and Communicate Results
-   - **Goal:** Present insights and recommendations to stakeholders.
-   - **Actions:**
-     - Summarize findings and create visualizations to explain insights.
-     - Make clear, actionable recommendations.
-   - **Tools:** Tableau, Power BI, Google Data Studio, Google Slides, PowerPoint
-
-## Recommended Tools
-
-| Step                       | Key Tools                                                                                  |
-|----------------------------|--------------------------------------------------------------------------------------------|
-| **Define Objectives**      | Notion, Miro, Trello, Google Docs, Word                                                    |
-| **Data Collection & Cleaning** | SQL, BigQuery, Pandas, Excel, OpenRefine                                           |
-| **EDA**                    | Pandas Profiling, Sweetviz, Matplotlib, Seaborn, ggplot2                                   |
-| **Modeling and Analysis**  | Scikit-Learn, TensorFlow, Statsmodels, caret, randomForest                                |
-| **Summarize and Communicate** | Tableau, Power BI, Google Data Studio, Google Slides, PowerPoint                   |
-
+| Steps                             | Tools                                                                                     |
+|----------------------------------|-------------------------------------------------------------------------------------------------------|
+| **1. Collect**           | **SQL**, **BigQuery**, **Python (Requests, BeautifulSoup)** Web Scraping, **APIs**, **Excel**, **Google Sheets** |
+| **2. Clean**             | **Pandas**, **OpenRefine**, **Excel**, **Databricks** |
+| **3. EDA & Feature Engineering** | **Pandas Profiling**, **Sweetviz**, **Seaborn**, **Matplotlib**, **Scipy**, **FeatureTools** |
+| **4. Modeling**                  | **Sk Learn**, **TensorFlow**, **Keras**, **XGBoost**, **Statsmodels**, **H2O.ai** |
+| **5. Visualization**        | **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**, **Google Data Studio**, **Excel** |
