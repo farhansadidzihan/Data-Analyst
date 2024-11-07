@@ -18,7 +18,7 @@
 - Seaborn
 - Tensorflow
   
-### 3. - [Database](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
+### 3. [Database](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 
 - [MongoDB](https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 - [Mysql](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
