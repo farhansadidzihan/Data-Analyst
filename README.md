@@ -47,14 +47,14 @@
 - Matplotlib
 - Seaborn
 
-### 6. DS Projects & [MLOps](https://madewithml.com/courses/mlops/)
+## DS Projects & [MLOps](https://madewithml.com/courses/mlops/)
 
 - [Project Ideas](https://github.com/veb-101/Data-Science-Projects)         
 - [ML System Deisgn](https://github.com/eugeneyan/applied-ml)
 - Kubernetes
 - Docker
 
-### 7. Data Science Interviews
+## Data Science Interviews
 
 - [ML & DS Questions](https://www.mlstack.cafe)
 - [SQL & DS Questions](https://datalemur.com)
