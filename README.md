@@ -2,7 +2,7 @@
 
 | Steps                             | Tools                                                                                     |
 |----------------------------------|-------------------------------------------------------------------------------------------------------|
-| **1. Collect**           | **SQL**, **BigQuery**, **Python (Requests, BeautifulSoup)** Web Scraping, **APIs**, **Excel**, **Google Sheets** |
+| **1. Collect**           | **SQL**, **BigQuery**, **Requests & BeautifulSoup for Web Scraping**, **APIs**, **Excel**, **Google Sheets** |
 | **2. Clean**             | **Pandas**, **OpenRefine**, **Excel**, **Databricks** |
 | **3. EDA & Feature Engineering** | **Pandas Profiling**, **Sweetviz**, **Seaborn**, **Matplotlib**, **Scipy**, **FeatureTools** |
 | **4. Modeling**                  | **Sk Learn**, **TensorFlow**, **Keras**, **XGBoost**, **Statsmodels**, **H2O.ai** |
