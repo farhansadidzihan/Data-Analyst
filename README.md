@@ -47,14 +47,13 @@ Collect -> Clean -> EDA -> Modelling -> Visualization
 - Matplotlib
 - Seaborn
 
-## DS Projects & [MLOps](https://madewithml.com/courses/mlops/)
 
 - [Project Ideas](https://github.com/veb-101/Data-Science-Projects)         
 - [ML System Deisgn](https://github.com/eugeneyan/applied-ml)
 - Kubernetes
 - Docker
 
-## Data Science Interviews
+## [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
 
 - [ML & DS Questions](https://www.mlstack.cafe)
 - [SQL & DS Questions](https://datalemur.com)
