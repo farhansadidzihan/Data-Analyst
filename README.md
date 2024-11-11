@@ -47,10 +47,7 @@ Collect -> Clean -> EDA -> Modelling -> Visualization
 ## 🏳️ [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
-1. Docker
-2. Kubernetes
-3. [Project Ideas](https://github.com/veb-101/Data-Science-Projects)
-4. [ML System Deisgn](https://github.com/eugeneyan/applied-ml)
-5. [ML & DS Questions](https://www.mlstack.cafe)
-6. [SQL & DS Questions](https://datalemur.com)
+1. Docker, Kubernetes
+3. [Data Science Questions](https://www.mlstack.cafe)
+2. [SQL Questions](https://datalemur.com)
 
