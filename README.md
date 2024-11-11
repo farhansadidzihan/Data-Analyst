@@ -44,7 +44,8 @@ Collect -> Clean -> EDA -> Modelling -> Visualization
 6. Matplotlib
 7. Seaborn
 
-## [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
+## 🏳️ [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
+**Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
 1. Docker
 2. Kubernetes
@@ -53,4 +54,3 @@ Collect -> Clean -> EDA -> Modelling -> Visualization
 5. [ML & DS Questions](https://www.mlstack.cafe)
 6. [SQL & DS Questions](https://datalemur.com)
 
-**Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
