@@ -21,18 +21,15 @@ Collect -> Clean -> EDA -> Modelling -> Visualization
 4. FeatureTools
 5. Scipy
   
-### 4. [Modeling](https://dbourke.link/mlmap) (20-25 Algorithms)
+### 4. [Modeling](https://dbourke.link/mlmap)
 
 1. Sk Learn
 2. Tensorflow
 3. Pytorch
 4. Keras
-5. [ML OneShot](https://youtu.be/JxgmHe2NyeY?si=qqwRQ9Ab9oVSDu3s)
-6. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
-7. [ML](https://youtu.be/Av0oMG49FQE)
-8. [DL OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR)
-9. [DL Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-10. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+5. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
+6. [DL OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR), [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
+7. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
 ### 5. Visualization
 
