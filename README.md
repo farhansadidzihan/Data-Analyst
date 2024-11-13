@@ -1,4 +1,4 @@
-## Python Data Analyst (Collect -> Clean -> EDA -> Modelling -> Visualization)
+### Python Data Analyst (Collect -> Clean -> EDA -> Modelling -> Visualization)
 
 ### 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
 
