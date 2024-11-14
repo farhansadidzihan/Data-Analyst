@@ -1,45 +1,33 @@
 ## Python Data Analyst 
-### Collect -> Clean -> EDA -> Modelling -> Visualization
+### Data Collect & Clean -> EDA & Modelling -> Data Visualization
 
-### 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL)
+### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
 1. [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
 2. Excel
-3. AWS
+3. Numpy
+4. Pandas
+5. OpenRefine
   
-### 2. Clean
-
-1. Numpy
-2. Pandas
-3. OpenRefine
-  
-### 3. EDA & Feature Engineering
+### Step 2. EDA, Feature Engineering & [Modeling](https://dbourke.link/mlmap)
 
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 2. [EDA & Feature Engineering](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 3. Pandas Profiling
 4. FeatureTools
-5. Scipy
-  
-### 4. [Modeling](https://dbourke.link/mlmap)
+6. Sk Learn
+7. Tensorflow
+8. Pytorch
+9. Keras
+10. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
+11. DL [OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR), [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
+12. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
-1. Sk Learn
-2. Tensorflow
-3. Pytorch
-4. Keras
-5. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
-6. DL [OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR), [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-7. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
+### Step 3. Data Visualization
 
-### 5. Visualization
-
-1. Tableau
-2. Power BI
-3. Google Data Studio
-4. Apache Hadoop
-5. Apache Spark
-6. Matplotlib
-7. Seaborn
+1. Tableau, Power BI, Google Data Studio
+2. Apache Hadoop, Spark
+3. Matplotlib, Seaborn
 
 ## 🏳️ [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
