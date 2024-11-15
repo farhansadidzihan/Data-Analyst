@@ -30,7 +30,7 @@ Tech: Matplotlib, Seaborn
 Non-Tech: Power BI, Tableau
 
 ## 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
-**Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
+**Remote Jobs:** https://www.teamblind.com/salary, https://www.f6s.com, https://www.virtualinternships.com, https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
 1. Docker, Kubernetes
 3. [Data Science Questions](https://www.mlstack.cafe)
