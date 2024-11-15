@@ -25,9 +25,9 @@
 
 ### Step 3. Data Visualization
 
-1. Tableau, Power BI
+1. Matplotlib, Seaborn
+2. Power BI, Tableau
 2. Apache Hadoop, Spark
-3. Matplotlib, Seaborn
 
 ## 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
