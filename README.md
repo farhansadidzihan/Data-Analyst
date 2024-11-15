@@ -21,6 +21,7 @@ ML Libraries: Sk Learn, Tensorflow, Pytorch, Keras
 ### Step 3. Data Visualization
 
 Tech: Matplotlib, Seaborn
+<br>
 Non-Tech: Power BI, Tableau
 
 ## 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
