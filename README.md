@@ -29,7 +29,7 @@
 2. Apache Hadoop, Spark
 3. Matplotlib, Seaborn
 
-## 🏳️ [MLOps Projects](https://madewithml.com/courses/mlops/) & Interviews
+## 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
 1. Docker, Kubernetes
