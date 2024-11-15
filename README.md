@@ -9,7 +9,7 @@
 4. Pandas
 5. OpenRefine
   
-### Step 2. EDA, Feature Engineering & [Modeling](https://dbourke.link/mlmap)
+### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
 
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 2. [EDA & Feature Engineering](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
