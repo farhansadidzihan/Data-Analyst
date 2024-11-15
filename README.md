@@ -25,7 +25,7 @@
 
 ### Step 3. Data Visualization
 
-1. Tableau, Power BI, Google Data Studio
+1. Tableau, Power BI
 2. Apache Hadoop, Spark
 3. Matplotlib, Seaborn
 
