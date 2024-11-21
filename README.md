@@ -23,7 +23,6 @@ ML Libraries: Sk Learn, Tensorflow, Pytorch, Keras
 1. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ0), [OneShot](https://youtu.be/JxgmHe2NyeY?si=K0jwXBA-dJPA54nV)
 <br>
 2. DL [OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR), [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-<br>
 3. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
 ### Step 3. Data Visualization
