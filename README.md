@@ -1,4 +1,3 @@
-## Python Data Analyst 
 ### Data Collect & Clean -> EDA & Modelling -> Data Visualization
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
