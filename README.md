@@ -2,8 +2,8 @@
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
-1. [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
-2. Excel
+1. Excel
+2. [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
 <br>
 Data Cleaning: Numpy, Pandas, OpenRefine
   
