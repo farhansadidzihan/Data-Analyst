@@ -12,7 +12,7 @@ Non-Tech: Excel, [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTA
 <br>
 2. [EDA & Feature Engineering](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 <br>
-Big Data: Apache Hadoop, Spark
+Non-Tech: Apache Hadoop, Spark
 <br>
 EDA Libraries: Pandas Profiling, FeatureTools
 <br>
