@@ -2,9 +2,9 @@
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
-Tech: Numpy, Pandas, OpenRefine
+**Tech**: Numpy, Pandas, OpenRefine
 <br>
-Non-Tech: Excel, [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
+**Non-Tech**: Excel, [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
   
 ### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
 
@@ -12,7 +12,7 @@ Non-Tech: Excel, [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTA
 <br>
 2. [EDA & Feature Engineering](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 <br>
-Non-Tech: Apache Hadoop, Spark
+**Non-Tech**: Apache Hadoop, Spark
 <br>
 EDA Libraries: Pandas Profiling, FeatureTools
 <br>
@@ -25,9 +25,9 @@ ML Libraries: Sk Learn, Tensorflow, Pytorch, Keras
 
 ### Step 3. Data Visualization
 
-Tech: Matplotlib, Seaborn
+**Tech**: Matplotlib, Seaborn
 <br>
-Non-Tech: Power BI, Tableau 
+**Non-Tech**: Power BI, Tableau 
 
 ## 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** https://www.teamblind.com/salary, https://www.f6s.com, https://www.virtualinternships.com, https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
