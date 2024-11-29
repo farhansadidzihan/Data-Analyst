@@ -8,7 +8,7 @@
   
 ### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
 
-**Tech**: Sk Learn, Tensorflow, Pytorch, Keras, Pandas Profiling, FeatureTools
+**Tech**: Sk-Learn, Tensorflow, Pytorch, Keras, Pandas_Profiling, FeatureTools
 <br>
 **Non-Tech**: Apache Hadoop, Spark
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
