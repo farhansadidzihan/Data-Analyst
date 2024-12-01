@@ -2,9 +2,9 @@
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
-**Tech**: Numpy, Pandas, OpenRefine
+**Tech**: Python, DSA, DBMS, Numpy, Pandas, OpenRefine,  [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) 
 <br>
-**Non-Tech**: Excel, [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl)
+**Non-Tech**: Excel
   
 ### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
 
