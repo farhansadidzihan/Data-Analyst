@@ -10,7 +10,7 @@
 
 **Tech**: Sk-Learn, Tensorflow, Pytorch, Keras, Pandas_Profiling, FeatureTools
 <br>
-**Non-Tech**: Apache Hadoop, Spark
+**Non-Tech**: Apache Hadoop, Apache Spark
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 2. [EDA & Feature Engineering](https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 1. [ML Playlist](https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ0),[OneShot](https://youtu.be/JxgmHe2NyeY?si=K0jwXBA-dJPA54nV)
